@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.nav-sec{
+    margin: 10px;
+    display: flex;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+.logout{
+    border: 0px;
+    background-color: transparent;
+}

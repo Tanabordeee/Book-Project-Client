@@ -1,0 +1,39 @@
+.btn-submit-delete{
+    position: absolute; 
+    top: 87%;
+    left: 50%;
+    border: 0px;
+    margin-left: 20px;
+    padding: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 10px;
+    background-color: rgb(177, 56, 56);
+    color: white;
+    width: 30%;
+}
+.btn-submit-update{
+    position: absolute; 
+    top: 92%;
+    left: 20%;
+    transform: translate(-50%, -50%); 
+    border: 0px;
+    margin-left: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(56, 94, 177);
+    color: white;
+    text-decoration: none;
+    width: 30%;
+}
+.btn-submit-update:hover{
+    color: white;
+}
+.mainbtn{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.container-book{
+    height: 600px;
+}

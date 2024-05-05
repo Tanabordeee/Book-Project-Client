@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.body{
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    min-height: 100vh;
+}
+.containerform{
+    margin: 30px auto;
+    width: 350px;
+}
+.btn-add{
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 20px;
+    border: 1px solid black;
+    width: 100%;
+    color: white;
+}
+.lable-addbook{
+    margin: 10px;
+}
